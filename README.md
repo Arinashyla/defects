@@ -10,4 +10,5 @@
 
 <h1> Scope </h1>
   This bug report contains info about problems that occured during the work of the platform in high load conditions. 
+  In most cases bugs are associated with a high load on the application for which it was not ready. 
 
